@@ -1,4 +1,4 @@
-baseURL: https://example.org/
+baseURL: https://ujgsp.github.io/
 languageCode: en-us
 title: "Ujang Sopiyan"
 theme: hugo-profile
@@ -54,7 +54,7 @@ Menus:
 
 params:
   title: "Ujang Sopiyan"
-  description: My Site
+  description: Personal Blog
   # staticPath: ""  # The path to serve the static files from
   favicon: "/ujgsp.png"
 
